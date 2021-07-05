@@ -1,0 +1,1 @@
+steart.o: ../steart.c
